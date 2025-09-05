@@ -1,16 +1,89 @@
-## Hi there 👋
+<!-- Banner -->
+<p align="center">
+  <img src="https://ts-developers.com/img/icon/logo.png" alt="TS Developers" width="150"/>
+</p>
 
-<!--
-**TS-DEV-pvt-Ltd/TS-DEV-pvt-Ltd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">👋 Welcome to TS-DEVELOPERS</h1>
+<h3 align="center">AJK’s First Software House | Building the Digital Future.</h3>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🏢 About Us
+
+- 🚀 **[TS-DEVELOPERS](https://ts-developers.com)** — AJK’s first software house based in Rawalakot.  
+- 🌍 Our mission is to **empower businesses & communities** with cutting-edge technology solutions.  
+- 💡 We specialize in **Web Development**, **Mobile Apps**, **Cloud Solutions**, and **Emerging Tech**.  
+- 📬 Contact us at: **[dev@ts-developers.com](mailto:dev@ts-developers.com)**  
+
+---
+
+### 🌐 Connect With Us
+
+<p align="left">
+  <a href="https://www.facebook.com/tsdevelopers.official" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/facebook.svg" alt="Facebook" width="30" /></a>
+  <a href="https://www.youtube.com/@ts-developers-g3y" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/youtube.svg" alt="YouTube" width="30" /></a>
+  <a href="https://www.linkedin.com/company/ts-developers" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" alt="LinkedIn" width="30" /></a>
+  <a href="https://ts-developers.com" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/googlechrome.svg" alt="Website" width="30" /></a>
+</p>
+
+---
+
+### 🛠️ Technologies We Work With
+
+#### 🎨 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,tailwind,react,nextjs,vue,nuxtjs,angular,sass,jquery" />
+</p>
+
+#### ⚙️ Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,nestjs,express,python,django,flask,java,spring,ruby,rails,go,cs,dotnet" />
+</p>
+
+#### 📱 Mobile Development
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,dart,react,swift,kotlin,androidstudio,apple" />
+</p>
+
+#### 🗄️ Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,sqlite,redis,oracle" />
+</p>
+
+#### ☁️ DevOps & Cloud
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,nginx,apache,git,github,gitlab,bitbucket,linux,aws,gcp,azure,heroku,vercel,netlify" />
+</p>
+
+#### 🤖 AI & Data Science
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn,jupyter,r" />
+</p>
+
+#### 🧪 Testing & QA
+<p>
+  <img src="https://skillicons.dev/icons?i=selenium,postman,jest,mocha,cypress" />
+</p>
+
+#### 🎨 Design & Management Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=figma,xd,ps,ai,notion,trello,slack,discord,vscode,idea,eclipse" />
+</p>
+
+---
+
+### 🚀 Our Latest Projects
+
+- 🏫 **Hybrid Technology Hub** — In collaboration with UPR to transform education with technology.  
+- 📱 **Web & Mobile Apps** — Building scalable platforms for businesses across Pakistan.  
+- 💼 More projects coming soon on [TS-DEV Official Site](https://ts-developers.com).  
+
+---
+
+> 💼 **TS-DEV** is more than a software house — it’s a **tech movement in World**, creating opportunities and shaping the future of IT in South Asia. 🚀
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+TS-DEV!;Together+we+build+the+future+of+technology.🚀" />
+</p>
